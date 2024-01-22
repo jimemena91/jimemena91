@@ -22,11 +22,11 @@ Mi viaje en el desarrollo web comenzó con la maravilla de dar vida a ideas a tr
 
 Actualmente, estoy inmersa en proyectos emocionantes que combinan mi experiencia en React, mi manejo de Redux para el estado global, y mi habilidad para construir aplicaciones eficientes con Next.js. Además, mi conocimiento en Express.js y Sequelize me permite desarrollar aplicaciones web robustas y escalables. 🌐💪
 
-Mi enfoque va más allá de la pantalla; estoy comprometida en encontrar la perfecta armonía entre la danza y el código, integrando mi formación como bailarina en proyectos creativos. 🎭👩‍💻
-
 #### Colaboración y Creatividad 🤝
 
-Estoy abierta a colaborar en proyectos innovadores y creativos que exploren la sinergia entre el arte y la tecnología. Si tienes ideas que involucren tanto la danza como el código, ¡estaré encantada de participar y aportar mi perspectiva única! 🤗💡
+Mi enfoque va más allá de la pantalla; estoy comprometida en encontrar la perfecta armonía entre la creatividad y el código, integrando mi formación artística en proyectos innovadores. 🎨👩‍💻
+
+Estoy abierta a colaborar en proyectos que exploren la sinergia entre el arte y la tecnología. Si tienes ideas innovadoras, ¡estaré encantada de participar y aportar mi perspectiva única! 🤗💡
 
 #### Dato Curioso ☕
 

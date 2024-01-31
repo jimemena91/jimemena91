@@ -6,15 +6,15 @@
 
 Soy una Desarrolladora Frontend apasionada y altamente especializada en tecnologías que incluyen:
 
-- React.js ⚛️
+- ![React] (https://www.google.es/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Freact-logo%2F&psig=AOvVaw1vQZtn-GzCr8HdSzXWVTP4&ust=1706789353310000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID8g_zLh4QDFQAAAAAdAAAAABAE)
 - Redux 🔄
 - Next.js 🚀
-- JavaScript (ES6+) 🚀
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - Express.js 🌐
 - Sequelize (ORM) 🗃️
 - Tailwind CSS 🎨
-- CSS3 🎨
-- HTML5 📄![HTML](https://img.shields.io/badge/HTML-5-orange)
+  ![CSS](https://img.shields.io/badge/CSS-3-blue)
+- 📄![HTML](https://img.shields.io/badge/HTML-5-orange)
 
 Mi viaje en el desarrollo web comenzó con la maravilla de dar vida a ideas a través del código, y desde entonces, he trabajado diligentemente para perfeccionar mis habilidades y ofrecer experiencias de usuario excepcionales. 💻✨
 

@@ -14,7 +14,7 @@ Soy una Desarrolladora Frontend apasionada y altamente especializada en tecnolog
 - Sequelize (ORM) 🗃️
 - Tailwind CSS 🎨
 - CSS3 🎨
-- HTML5 📄
+- HTML5 📄![HTML](https://img.shields.io/badge/HTML-5-orange)
 
 Mi viaje en el desarrollo web comenzó con la maravilla de dar vida a ideas a través del código, y desde entonces, he trabajado diligentemente para perfeccionar mis habilidades y ofrecer experiencias de usuario excepcionales. 💻✨
 

@@ -35,6 +35,6 @@ Cuando no estoy frente a la pantalla, me encontrarás bailando en el estudio. La
 #### Contacto 📬
 
 - 📧 Puedes contactarme a través de jimemenarodriguez91@gmail.com
-- 🔗 Conéctate conmigo en [LinkedIn] https://www.linkedin.com/in/jimena-rodriguez-57a628171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🔗 Conéctate conmigo en [LinkedIn] https://www.linkedin.com/in/jimena-rodriguez-57a628171/
 
 Gracias por explorar mi espacio en GitHub. ¡Espero que encuentres inspiración en mis proyectos y que podamos colaborar en algo emocionante! 😄🚀

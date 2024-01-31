@@ -6,15 +6,15 @@
 
 Soy una Desarrolladora Frontend apasionada y altamente especializada en tecnologías que incluyen:
 
-- ![React] (https://www.google.es/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Freact-logo%2F&psig=AOvVaw1vQZtn-GzCr8HdSzXWVTP4&ust=1706789353310000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID8g_zLh4QDFQAAAAAdAAAAABAE)
-- Redux 🔄
-- Next.js 🚀
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- Express.js 🌐
-- Sequelize (ORM) 🗃️
-- Tailwind CSS 🎨
-  ![CSS](https://img.shields.io/badge/CSS-3-blue)
-- 📄![HTML](https://img.shields.io/badge/HTML-5-orange)
+- ![React] (https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![Express.js] (https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+- [Sequelize] (https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
+- ![Tailwind] (https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+- ![CSS](https://img.shields.io/badge/CSS-3-blue)
+- ![HTML](https://img.shields.io/badge/HTML-5-orange)
 
 Mi viaje en el desarrollo web comenzó con la maravilla de dar vida a ideas a través del código, y desde entonces, he trabajado diligentemente para perfeccionar mis habilidades y ofrecer experiencias de usuario excepcionales. 💻✨
 

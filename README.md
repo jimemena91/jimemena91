@@ -1,4 +1,5 @@
-![Alt text](Hi I'm Jimena.gif)
+![Alt text](Hi%20I'm%20Jimena.gif)
+
 ¡Bienvenido a mi rincón en GitHub, donde la danza y el código se entrelazan para formar mi viaje apasionante en el desarrollo frontend! 💃🎨
 
 #### Sobre Mí 🌈

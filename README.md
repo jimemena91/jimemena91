@@ -1,4 +1,5 @@
-![Alt text](Hi%20I'm%20Jimena.gif)
+![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2l5M3MwcW9ucDUzM2JwcjJoYTg2NmtkaXdxMXdyaXgzNDBsdGtlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e7hZ8pHosDLvt4xuRJ/source.gif)
+
 
 ¡Bienvenido a mi rincón en GitHub, donde la danza y el código se entrelazan para formar mi viaje apasionante en el desarrollo frontend! 💃🎨
 
